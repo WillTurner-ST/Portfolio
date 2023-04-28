@@ -1,0 +1,168 @@
+{
+    "basic_info": {
+      "description_header": "Hello",
+      "description": "👋 I am William Turner, a distinguished graduate of a rigorous 32-week Full-Stack Software Development Program. As a passionate Full Stack Developer, I strive to keep myself abreast with the latest advancements in technology and thrive on solving real-world problems. My technical expertise lies in the MERN stack, but I am also proficient in Java/Springboot and Python/Flask. I recently embarked on a new venture, creating a Web Consulting business in the vibrant city of Chattanooga, TN, known as OnCode Web Design and Developemnt. You can check out our impressive portfolio of projects and services by visiting oncodeconsult.com. I am currently seeking a full-time position as a Software Engineer and would be honored to bring my skills and experience to contribute to your esteemed organization. Thank you for your time, and I look forward to hearing from you soon.",
+      "section_name": {
+        "about": "About me",
+        "projects": "Projects",
+        "skills": "Skills",
+        "experience": "Experience"
+      }
+    },
+    "projects": [
+      {
+        "title": "Dojo Gym Tracker",
+        "startDate": "2022",
+        "description": "My Coding Dojo group capstone project, I was responsible for the backend development of the application. I used Node.js, Express, and MongoDB to create a RESTful API. I also used React and Material UI to help create the front-end. We handled the project using Agile methodology and used Trello to keep track of our progress.",
+        "images": [
+          "images/portfolio/dojo/DojoHome.jpg",
+          "images/portfolio/dojo/DojoRec.mp4"
+        ],
+        "url": "",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-materialui-plain",
+            "name": "Mui"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "Kalk-Dash",
+        "startDate": "2022",
+        "description": "Kalk-Dashboard is a personal project aimed at creating a one stop shop for all loan related calculations. I used React and Tailwind CSS to create the front-end and will be using Express and MongoDB to create the backend. I also plan to use the Zillow API to get the current interest rates for the calculations.",
+        "images": [
+          "images/portfolio/kalk/p2.jpg",
+          "images/portfolio/kalk/amorRec.mp4"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      },
+      {
+        "title": "OnCode Consulting",
+        "startDate": "2023",
+        "description": "OnCode is the start of a passion project geared at helping myself reach my full potential as a developer. I created this website using React and Tailwind CSS. OnCode has been my first attempt at starting a freelance business. I plan to use this website to showcase my skills and projects, as well as to help me find freelance work.",
+        "images": [
+          "images/portfolio/oncode/p1.jpg",
+          "images/portfolio/oncode/oncodeRec.mp4"
+        ],
+        "url": "https://github.com",
+        "technologies": [
+          {
+            "class": "devicon-react-original",
+            "name": "React"
+          },
+          {
+            "class": "devicon-express-original",
+            "name": "Express"
+          },
+          {
+            "class": "devicon-nodejs-plain",
+            "name": "Nodejs"
+          },
+          {
+            "class": "devicon-tailwindcss-plain",
+            "name": "Tailwind"
+          },
+          {
+            "class": "devicon-mongodb-plain",
+            "name": "MongoDB"
+          }
+        ]
+      }
+    ],
+    "experience": [
+      {
+        "company": "OnCode Web Design and Consulting",
+        "title": "FullStack Developer",
+        "years": "12.2022 - present",
+        "mainTech": [
+          "MERN Stack",
+          "Java/Springboot",
+          "Python/Flask",
+          "Shopify",
+          "WordPress"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Nodejs",
+          "Express",
+          "MongoDB",
+          "MySQL",
+          "Java",
+          "Springboot",
+          "Python",
+          "Flask",
+          "Shopify",
+          "WordPress",
+          "Rest API's"
+        
+        ]
+      },
+      
+      {
+        "company": "Coding Dojo",
+        "title": "Full Stack Developer Student",
+        "years": "03.2022 - 11.2022",
+        "mainTech": [
+          "MERN Stack",
+          "Java/Springboot",
+          "Python/Flask"
+        ],
+        "technologies": [
+          "HTML",
+          "CSS",
+          "JavaScript",
+          "React",
+          "Nodejs",
+          "Express",
+          "MongoDB",
+          "MySQL",
+          "Java",
+          "Springboot",
+          "Python",
+          "Flask"
+        
+        ]
+      }
+    ]
+  }
